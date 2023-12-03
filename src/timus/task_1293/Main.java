@@ -17,9 +17,5 @@ public class Main {
         out.println(result);
         out.flush();
 
-
-
-
-
     }
 }
