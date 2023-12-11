@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 6
 Alice+one
 Bob+one
 carl
 Debora+one
 Enrique+one
+=======
+6
+Alice+one
+Bob+one
+carl
+Debora+one
+Enrique+one
+>>>>>>> github/master
 FRED+one
